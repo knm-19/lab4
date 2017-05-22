@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalcClass
 {
-    class CalcClass
+    public class Class1
     {
         public static int Add(long a, long b)
         {

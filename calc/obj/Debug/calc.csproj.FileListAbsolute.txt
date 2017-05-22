@@ -6,3 +6,6 @@ C:\Users\Oleh\Desktop\lab4\lab4\calc\obj\Debug\calc.Properties.Resources.resourc
 C:\Users\Oleh\Desktop\lab4\lab4\calc\obj\Debug\calc.csproj.GenerateResource.Cache
 C:\Users\Oleh\Desktop\lab4\lab4\calc\obj\Debug\calc.exe
 C:\Users\Oleh\Desktop\lab4\lab4\calc\obj\Debug\calc.pdb
+C:\Users\Oleh\Desktop\65\savchuk\lab4\calc\bin\Debug\calc.exe.config
+C:\Users\Oleh\Desktop\65\savchuk\lab4\calc\obj\Debug\calc.exe
+C:\Users\Oleh\Desktop\65\savchuk\lab4\calc\obj\Debug\calc.pdb
