@@ -1,0 +1,5 @@
+C:\Users\Oleh\Desktop\lab4\lab4\CalcClass\bin\Debug\CalcClass.dll
+C:\Users\Oleh\Desktop\lab4\lab4\CalcClass\bin\Debug\CalcClass.pdb
+C:\Users\Oleh\Desktop\lab4\lab4\CalcClass\obj\Debug\CalcClass.csprojResolveAssemblyReference.cache
+C:\Users\Oleh\Desktop\lab4\lab4\CalcClass\obj\Debug\CalcClass.dll
+C:\Users\Oleh\Desktop\lab4\lab4\CalcClass\obj\Debug\CalcClass.pdb
